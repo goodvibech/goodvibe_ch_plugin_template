@@ -1,2 +1,2 @@
-# goodvibe_ch_plugin_template
-A simple plugin template
+# Plugin template
+A simple guide to create a plugin.
