@@ -22,10 +22,12 @@ if ( !defined('ABSPATH') ) exit;
 // Currently plugin version.
 define( 'GOODVIBE_CH_PLUGIN_NAME', '1.0.0' );
 
-class GoodvibePluginName {	
+class GoodvibePluginName {
 	
-  // add custom functions here.
-		
+	function __construct(){
+		// add custom functions here.	
+	}
+	
 }
 
 $goodvibePluginName = new GoodvibePluginName();
